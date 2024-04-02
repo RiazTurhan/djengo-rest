@@ -1,0 +1,1 @@
+The process of converting native python datatypes such as dic to complex data types such as querysets is called deserialization in DRF 
